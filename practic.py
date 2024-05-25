@@ -4,7 +4,7 @@ def format_price(price):
     return done
 
 
-price = '76.24'
+price = '30'
 p = format_price(price)
 
 
